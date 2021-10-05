@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T16:48:35.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="lGhonrZUR-Yc1_N53tKt" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T17:01:57.800Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="bM5JsppyWMMXLQV_x-cz" version="15.4.1" type="github">
   <diagram id="ZpEJBE9R_FhSz9hDK9At" name="Page-1">
-    <mxGraphModel dx="1165" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1553" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
           <mxGeometry x="470" y="264" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9ACmallu-k88FDu2mwL4-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="515" width="900" height="900" as="geometry" />
+          <mxGeometry x="180" y="513" width="900" height="900" as="geometry" />
         </mxCell>
         <mxCell id="9ACmallu-k88FDu2mwL4-29" value="" style="line;strokeWidth=2;html=1;rotation=-180;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
           <mxGeometry x="172" y="990" width="266" height="10" as="geometry" />
@@ -215,7 +215,7 @@
         <mxCell id="9ACmallu-k88FDu2mwL4-97" value="休闲区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="990" y="1290" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9ACmallu-k88FDu2mwL4-98" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#000000;strokeWidth=0.5;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="9ACmallu-k88FDu2mwL4-98" value="小桌子" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#000000;strokeWidth=0.5;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1010" y="1215.5" width="30" height="31" as="geometry" />
         </mxCell>
         <mxCell id="9ACmallu-k88FDu2mwL4-99" value="放自行车，摩托车？" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;strokeColor=#000000;strokeWidth=0.5;gradientColor=none;" vertex="1" parent="1">
@@ -262,6 +262,24 @@
         </mxCell>
         <mxCell id="9ACmallu-k88FDu2mwL4-115" value="楼梯下放自行车" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;rotation=45;" vertex="1" parent="1">
           <mxGeometry x="240" y="1084" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9ACmallu-k88FDu2mwL4-116" value="&lt;font style=&quot;font-size: 20px&quot;&gt;入户门&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1430" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9ACmallu-k88FDu2mwL4-117" value="烧水" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#000000;strokeWidth=0.5;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="574" y="660" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9ACmallu-k88FDu2mwL4-120" value="" style="line;strokeWidth=2;direction=south;html=1;fontSize=20;gradientColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="860" width="10" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="9ACmallu-k88FDu2mwL4-121" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=20;edgeStyle=orthogonalEdgeStyle;exitX=0.25;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9ACmallu-k88FDu2mwL4-30" target="9ACmallu-k88FDu2mwL4-120">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="910" as="sourcePoint" />
+            <mxPoint x="540" y="860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="466" y="860" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
